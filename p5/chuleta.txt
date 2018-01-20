@@ -1,0 +1,18 @@
+atom /
+
+atom - mostrar preview
+--------------------
+ctrl + shift + h
+
+instalar servidor en atom
+---------------------
+
+file > settings > install > instalar atom-live-server
+
+
+p5/
+
+generar un proyecto
+--------------------
+
+p5 generate -b proyecto
